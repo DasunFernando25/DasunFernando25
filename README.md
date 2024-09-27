@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dasun Madushanka</h1>
 <h3 align="center">A passionate full-stack developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **dasunmadushankaflap@gmail.com**
 
